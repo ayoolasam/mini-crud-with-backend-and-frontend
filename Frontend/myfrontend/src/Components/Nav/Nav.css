@@ -1,0 +1,26 @@
+.Navbar{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:10px;
+  border-bottom: 1px solid black;
+}
+ .functions button{
+  display:flex;
+  width:100px;
+  height:30px;
+  font-size: 20px;
+  gap:10px;
+  border-radius: 30px;
+  font-family: "Poppins",sans-serif;
+  align-items: center;
+  
+}
+.functions{
+  display:flex;
+  align-items: center;
+  gap:20px;
+}
+.Navbar p{
+font-size: 30px;
+}
